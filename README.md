@@ -1,7 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> **Welcome**
-
-
-# 👋 Welcome
+ # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Welcome
 
 Hi, I'm **Ashish Gusain**, an AI/ML Developer and Python enthusiast passionate about transforming real-world problems into scalable, intelligent solutions. I love building with **LLMs**, **AI agents**, and **data pipelines**—bridging backend engineering with smart automation.
 
