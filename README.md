@@ -14,7 +14,6 @@ Hi, I'm **Ashish Gusain**, an AI/ML Developer and Python enthusiast passionate a
 * **YouTube AI Agent** → [GitHub](https://github.com/agusain2001/capstone-project-ETL)
 * **Real Estate Price Prediction** → [GitHub](https://github.com/agusain2001/capstone-project-ETL)
 * **WhatsApp Chat Analyzer** → [GitHub](https://github.com/agusain2001/Unveiling-WhatsApp-Chats-AnExploratory-Data-Analysis-with-Insights)
-* **Loan Amortization Tool** → [Colab Demo](https://colab.research.google.com/drive/1_eUOGs-NbKz4tpj6fS_7IqLjFza62FPH?usp=sharing)
 
 ---
 
