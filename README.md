@@ -27,7 +27,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A Passionate AI/ML Developer from India
 
 - 🎓 **Master's in Computer Applications** from G.B. Pant University (CGPA: 7.2)
-- 🚀 Currently working as **Junior AI Engineer** 
+- 🚀 Currently working as **Junior AI Engineer** at Easy Nurture
 - 🤖 Building **Intelligent AI Agents** for YouTube, Gmail, Slack & more
 - 💡 Specialized in **LangChain**, **LangGraph**, and **Multi-Agent Systems**
 - 🔧 Experienced in **ETL Pipelines** & **Real-time Data Processing**
@@ -171,7 +171,7 @@
 
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/agusain2001/agusain2001/output/github-contribution-grid-snake-dark.svg?v=1" alt="Snake animation" />
+  <img src="https://github.com/agusain2001/agusain2001/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -212,28 +212,34 @@
 
 <details>
 <summary><b>📊 GitHub Metrics</b></summary>
+<br/>
 <div align="center">
-  <img src="https://metrics.lecoq.io/agusain2001?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agusain2001&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9" alt="Detailed GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=agusain2001&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&text_color=c9d1d9" alt="Wakatime Stats" width="48%" />
 </div>
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h3>🎉 Thanks for visiting!</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFD1&center=true&width=435&lines=Let's+build+something+amazing+together!;Feel+free+to+explore+my+repositories!;Don't+forget+to+⭐+if+you+like+my+work!" alt="Thanks" />
-  
-  <br><br>
+  <h2>🎉 Thanks for visiting!</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!;Feel+free+to+explore+my+repositories!;Don't+forget+to+⭐+if+you+like+my+work!" alt="Thanks" />
+</div>
+
+<br/>
+
+<div align="center">
   
   ![Visitor Count](https://profile-counter.glitch.me/agusain2001/count.svg)
   
-  <br>
-  
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
   <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
----
