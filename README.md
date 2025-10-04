@@ -223,7 +223,8 @@
 
 <div align="center">
   <h2>🎉 Thanks for visiting!</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!;Feel+free+to+explore+my+repositories!;Don't+forget+to+⭐+if+you+like+my+work!" alt="Thanks" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!;Feel+free+to+explore+my+repositories!;Don't+forget+to+%E2%AD%90+if+you+like+my+work!" alt="Typing SVG" />
+
 </div>
 
 <br/>
