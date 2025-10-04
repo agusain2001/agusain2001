@@ -1,16 +1,13 @@
-<!-- Animated Wave Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashish%20Gusain&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Architect%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20" />
 
-<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+AI+Agents+%F0%9F%A4%96;Crafting+Scalable+Data+Pipelines+%F0%9F%9A%80;Transforming+Ideas+into+ML+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Social Badges -->
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-gusain-aa279a280/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agusain2001)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2001.ashish.official@gmail.com)
@@ -19,10 +16,8 @@
 
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- About Me Section with Glassmorphism Effect -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&width=435&lines=%F0%9F%91%8B+About+Me" alt="About Me" />
 </div>
@@ -42,7 +37,6 @@
 
 <br clear="both">
 
-<!-- Tech Stack Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -101,7 +95,6 @@
 
 </div>
 
-<!-- Projects Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -157,7 +150,6 @@
 </table>
 </div>
 
-<!-- GitHub Stats -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -173,18 +165,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agusain2001&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="agusain2001" />
 </div>
 
-<!-- 3D Contribution Graph -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agusain2001&theme=github_dark" alt="Ashish's GitHub Contribution"/>
 </div>
 
-<!-- Snake Animation -->
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
-  <img src="https://github.com/agusain2001/agusain2001/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/agusain2001/agusain2001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<!-- Trophy Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -195,7 +184,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=agusain2001&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="Trophies" />
 </div>
 
-<!-- Activity Graph -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -206,7 +194,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=agusain2001&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true" alt="Ashish's Activity Graph" />
 </div>
 
-<!-- Fun Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -219,11 +206,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🎵 Vibing to
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/)
 
 </div>
 
-<!-- Metrics -->
 <details>
 <summary><b>📊 GitHub Metrics</b></summary>
 <div align="center">
@@ -231,7 +217,6 @@
 </div>
 </details>
 
-<!-- Visitor Counter -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -249,61 +234,6 @@
   <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 </div>
 
-<!-- Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 ---
-
-<!-- Setup Instructions for Snake Animation -->
-<!--
-## 🐍 Snake Animation Setup
-
-To enable the snake animation, create a GitHub Action:
-
-1. Create `.github/workflows/snake.yml` in your profile repository
-2. Add the following content:
-
-```yaml
-name: Generate snake animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: agusain2001
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Run the workflow manually or wait for scheduled run
-4. The snake animation will appear in the output branch
--->
-
-<!-- 
-## 📊 Metrics Setup (Optional)
-
-For detailed GitHub metrics, visit: https://metrics.lecoq.io/
-Configure and generate your personalized metrics image.
--->
