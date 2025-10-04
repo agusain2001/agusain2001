@@ -228,6 +228,28 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2>🎉 Thanks for visiting!</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!;Feel+free+to+explore+my+repositories!;Don't+forget+to+⭐+if+you+like+my+work!" alt="Thanks" />
+  
+  <br/><br/>
+  
+  <img src="https://profile-counter.glitch.me/agusain2001/count.svg" alt="Visitor Count" />
+  
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
 <div align="center">
   
   ![Visitor Count](https://profile-counter.glitch.me/agusain2001/count.svg)
