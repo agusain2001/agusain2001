@@ -27,7 +27,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A Passionate AI/ML Developer from India
 
 - 🎓 **Master's in Computer Applications** from G.B. Pant University (CGPA: 7.2)
-- 🚀 Currently working as **Junior AI Engineer** at Easy Nurture
+- 🚀 Currently working as **Junior AI Engineer** 
 - 🤖 Building **Intelligent AI Agents** for YouTube, Gmail, Slack & more
 - 💡 Specialized in **LangChain**, **LangGraph**, and **Multi-Agent Systems**
 - 🔧 Experienced in **ETL Pipelines** & **Real-time Data Processing**
