@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+AI+Agents+%F0%9F%A4%96;Crafting+Scalable+Data+Pipelines+%F0%9F%9A%80;Transforming+Ideas+into+ML+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </p>
-<img src="./assets/profile_views.svg" alt="Profile views" />
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-gusain-aa279a280/)
