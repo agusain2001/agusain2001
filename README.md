@@ -1,6 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=agusain2001&label=Profile%20views&color=0e75b6&style=flat" alt="agusain2001" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashish%20Gusain&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Architect%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20" />
 
