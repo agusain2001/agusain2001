@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashish%20Gusain&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Architect%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20" />
 
 <p align="center">
@@ -59,7 +58,11 @@
 ### 🤖 LLM & AI Agents
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/🦜_LangGraph-2E7D32?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-6B46C1?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/🚢_CrewAI-FF6B35?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FFA116?style=for-the-badge&logoColor=white)
 
@@ -87,6 +90,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-00D4FF?style=for-the-badge&logoColor=white)
+![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-D97757?style=for-the-badge&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-6B46C1?style=for-the-badge&logoColor=white)
 
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -138,13 +146,13 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">💬 WhatsApp Chat Analyzer</h3>
+      <h3 align="center">🤖 Virtual Manager</h3>
       <div align="center">
-        <a href="https://github.com/agusain2001/Unveiling-WhatsApp-Chats-AnExploratory-Data-Analysis-with-Insights" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-25D366?style=for-the-badge&logo=github&logoColor=white" alt="WhatsApp Analyzer"/>
+        <a href="https://github.com/agusain2001/Virtual-manager" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-25D366?style=for-the-badge&logo=github&logoColor=white" alt="Virtual Manager"/>
         </a>
-        <p><strong>Tech Stack:</strong> Python, NLP, Pandas, Matplotlib</p>
-        <p>Exploratory data analysis tool extracting insights from WhatsApp conversations with NLP.</p>
+        <p><strong>Tech Stack:</strong> Python, AI, Automation</p>
+        <p>Intelligent virtual assistant automating tasks and managing workflows with AI-powered capabilities.</p>
       </div>
     </td>
   </tr>
